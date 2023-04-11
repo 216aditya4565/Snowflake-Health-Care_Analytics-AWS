@@ -9,6 +9,9 @@ Length of stay is a critical metric in healthcare, as it can impact patient outc
 In addition to improving patient outcomes, the analysis of patient LOS can also help healthcare providers to reduce costs. For example, by identifying patients who are at risk of extended LOS, providers can take proactive steps to ensure they receive the care they need in a timely manner.
 Overall, the analysis of patient length of stay is a valuable area of healthcare analytics that can help providers to improve patient outcomes and reduce costs. By leveraging data and advanced analytical techniques, healthcare providers can gain a deeper understanding of patient needs and identify opportunities to improve the delivery of care.
 
+## Architecture
+![image](https://user-images.githubusercontent.com/31154710/231046153-7796205c-393c-4b41-b475-6874c40e3fce.png)
+
 ## Approach
 
 1. Introduction to Snowflake and Snowflake Worksheet
